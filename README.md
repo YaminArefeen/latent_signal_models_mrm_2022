@@ -5,3 +5,5 @@ Written by Yamin Arefeen.  Please feel free to contact me and ask questions thro
 Latent Signal Models combines ideas from Bloch-equation based techniques, linear subspace constraints, and latent representations of signal for improved time-resolved MRI reconstruction.
 
 Data for Figures 3-7 can be downloaded from https://www.dropbox.com/sh/5upn7121m0dxvjp/AAD2liymnq4LhNKs85nUddJya?dl=0.
+
+Self contained code and instructions on how to run the experiments can be found in the folders for each figure.
