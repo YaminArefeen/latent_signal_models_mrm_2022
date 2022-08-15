@@ -1,4 +1,4 @@
-## Guide to performing experiments for Figure 3
+## Running In-vivo Portion of Experiment
 
 Be sure to download the invivo data from the appropriate folder in the dropbox link and place it into a folder **data/**.
 
