@@ -1,4 +1,4 @@
-## Running Experiment
+## Running the Experiment
 
 #### 1. Simulating k-space
 
