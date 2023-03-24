@@ -4,5 +4,5 @@ Run the script **train_autoencoder_script.ipynb**.
 
 ### Figure in manuscript
 
-![Alt text](../docs/images/fig08.png?raw=True "t2epg")
+![Alt text](../docs/images/fig09.png?raw=True "t2epg")
 
