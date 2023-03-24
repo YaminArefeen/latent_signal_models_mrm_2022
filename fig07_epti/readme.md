@@ -12,5 +12,5 @@ Run the script **proposed_reconstruction_script.ipynb** to generate the proposed
 
 ### Figure in manuscript
 
-![Alt text](../docs/images/fig07.png?raw=True "epti")
+![Alt text](../docs/images/fig08.png?raw=True "epti")
 
